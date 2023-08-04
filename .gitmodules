@@ -4,3 +4,6 @@
 [submodule "kotlin-data-structures"]
 	path = kotlin-data-structures
 	url = https://github.com/mpalmer16/kotlin-data-structures
+[submodule "rust-data-structures"]
+	path = rust-data-structures
+	url = https://github.com/mpalmer16/rust-data-structures
