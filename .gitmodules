@@ -1,3 +1,6 @@
 [submodule "zig-data-structures"]
 	path = zig-data-structures
 	url = https://github.com/mpalmer16/zig-data-structures
+[submodule "kotlin-data-structures"]
+	path = kotlin-data-structures
+	url = https://github.com/mpalmer16/kotlin-data-structures
