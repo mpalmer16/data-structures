@@ -1,0 +1,3 @@
+[submodule "zig-data-structures"]
+	path = zig-data-structures
+	url = https://github.com/mpalmer16/zig-data-structures
